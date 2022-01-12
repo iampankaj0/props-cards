@@ -12,77 +12,77 @@ import ImageK from './images/img-11.jpg';
 import ImageL from './images/img-12.jpg';
 
 
-const ServiceData = () => [
+const ServiceData = [
     {
         id: 1,
         imgsec: ImageA,
-        textData: 'first'
+        text: 'first'
     },
 
     {
         id: 2,
         imgsec: ImageB,
-        textData: 'Second'
+        text: 'Second'
     },
 
     {
         id: 3,
         imgsec: ImageC,
-        textData: 'Third'
+        text: 'Third'
     },
 
     {
         id: 4,
         imgsec: ImageD,
-        textData: 'forth'
+        text: 'forth'
     },
 
     {
         id: 5,
         imgsec: ImageE,
-        textData: 'Fifth'
+        text: 'Fifth'
     },
 
     {
         id: 6,
         imgsec: ImageF,
-        textData: 'Sixth'
+        text: 'Sixth'
     },
 
     {
         id: 7,
         imgsec: ImageG,
-        textData: 'Sevevnth'
+        text: 'Sevevnth'
     },
 
     {
         id: 8,
         imgsec: ImageH,
-        textData: 'Eighth'
+        text: 'Eighth'
     },
 
     {
         id: 9,
         imgsec: ImageI,
-        textData: 'Nineth'
+        text: 'Nineth'
     },
 
     {
         id: 10,
         imgsec: ImageJ,
-        textData: 'tenth'
+        text: 'tenth'
     },
 
     {
         id: 11,
         imgsec: ImageK,
-        textData: 'Eleventh'
+        text: 'Eleventh'
     },
 
     {
         id: 12,
         imgsec: ImageL,
-        textData: 'Twelveth'
+        text: 'Twelveth'
     },
 
 ]

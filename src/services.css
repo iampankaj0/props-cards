@@ -1,0 +1,28 @@
+section.services{
+    padding: 70px 0;
+    background-color: #f1f1f1;
+}
+
+.heading{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+.card .card-head img{
+    width: 100%;
+}
+.card .card-body{
+    background-color: #d8d8d8;
+}
+.card .card-body h1{
+    font-size: 22px;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.row{
+    grid-row-gap: 20px;
+}
