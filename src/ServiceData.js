@@ -14,7 +14,7 @@ import ImageL from './images/img-12.jpg';
 
 const ServiceData = [
     {
-        id: 1,
+        id: 12,
         imgsec: ImageA,
         text: 'first'
     },
@@ -80,7 +80,7 @@ const ServiceData = [
     },
 
     {
-        id: 12,
+        id: 1,
         imgsec: ImageL,
         text: 'Twelveth'
     },

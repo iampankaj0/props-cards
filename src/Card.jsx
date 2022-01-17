@@ -4,7 +4,7 @@ import React from 'react';
 const Card = (props) => {
     return (
         <>
-            <div className="col-md-4">
+            <div className="col-md-3">
                 <div className="card">
                     <div className="card-head">
                         <img src={props.imgsec} alt="imagecluture"/>
